@@ -1,0 +1,24 @@
+# Run-It
+
+Functions to run code in fish.
+
+## Installation
+
+### [Fundle](https://github.com/danhper/fundle)
+Add
+```fish
+fundle plugin DaveSaah/run-it
+```
+to your `config.fish`, reload your shell, and run `fundle install`.
+
+### [Fisher](https://github.com/jorgebucaran/fisher)
+
+```fish
+fisher add DaveSaah/run-it
+```
+
+### [Oh My Fish!](https://github.com/oh-my-fish)
+
+```fish
+omf install https://github.com/DaveSaah/run-it
+```
