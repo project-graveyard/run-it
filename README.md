@@ -14,7 +14,7 @@ to your `config.fish`, reload your shell, and run `fundle install`.
 ### [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add DaveSaah/run-it
+fisher install DaveSaah/run-it
 ```
 
 ### [Oh My Fish!](https://github.com/oh-my-fish)
