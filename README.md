@@ -1,6 +1,6 @@
-# Run-It
+# Run It
 
-Functions to run code in fish.
+Fish functions to encourage laziness in the terminal.
 
 ## Installation
 
